@@ -1,0 +1,4 @@
+
+
+class UserNotCreatedYet(Exception):
+    pass
